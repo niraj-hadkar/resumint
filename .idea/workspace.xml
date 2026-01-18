@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f45d8fd-6e18-4daa-9633-5802f1805668" name="Changes" comment="Initial Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/Programs/web projects/resumint" value="379gwDPnCtMz7ClYUT4EhaZOQ0f" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;niraj-hadkar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/niraj-hadkar/resumint.git&quot;,
+    &quot;accountId&quot;: &quot;77fdaf2f-06f3-4f61-a28d-efd702af00ad&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="379gwDPnCtMz7ClYUT4EhaZOQ0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.zencoder-patch-add-chat-message-raw-content": "true",
+    "RunOnceActivity.zencoder-patch-generate-chat-message-id": "true",
+    "RunOnceActivity.zencoder-patch-migrate-custom-instruction": "true",
+    "RunOnceActivity.zencoder-patch-migrate-repo-info-to-rules": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/Programs/web projects/resumint",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Programs\\web projects\\resumint\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\hp\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.242" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f45d8fd-6e18-4daa-9633-5802f1805668" name="Changes" comment="" />
+      <created>1766320936767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766320936767</updated>
+      <workItem from="1766320939126" duration="3147000" />
+      <workItem from="1766923532542" duration="9681000" />
+      <workItem from="1768037407518" duration="98000" />
+      <workItem from="1768037545421" duration="28000" />
+      <workItem from="1768037902396" duration="743000" />
+      <workItem from="1768132127965" duration="9406000" />
+      <workItem from="1768142242526" duration="10050000" />
+      <workItem from="1768730675107" duration="1886000" />
+      <workItem from="1768735996668" duration="321000" />
+      <workItem from="1768736347165" duration="7928000" />
+      <workItem from="1768744396750" duration="1745000" />
+      <workItem from="1768746190043" duration="522000" />
+      <workItem from="1768746737994" duration="918000" />
+      <workItem from="1768747686132" duration="1337000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed SSR to false">
+      <option name="closed" value="true" />
+      <created>1766322925060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766322925060</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Stripe Integration and Subscriptions">
+      <option name="closed" value="true" />
+      <created>1768150559935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768150559935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="For Vercel Deployment">
+      <option name="closed" value="true" />
+      <created>1768151198727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768151198727</updated>
+    </task>
+    <task id="LOCAL-00004" summary="For Vercel Deployment">
+      <option name="closed" value="true" />
+      <created>1768151671015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768151671015</updated>
+    </task>
+    <task id="LOCAL-00005" summary="For Vercel Deployment">
+      <option name="closed" value="true" />
+      <created>1768152823946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768152823946</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Deleted">
+      <option name="closed" value="true" />
+      <created>1768736589189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768736589189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated the dependencies for stripe payment server">
+      <option name="closed" value="true" />
+      <created>1768736662310</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768736662310</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Deleted">
+      <option name="closed" value="true" />
+      <created>1768738479154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768738479154</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Stripe payment integration and vercel deployment">
+      <option name="closed" value="true" />
+      <created>1768739098632</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768739098632</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Vercel deployment">
+      <option name="closed" value="true" />
+      <created>1768740669591</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768740669591</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated env variables">
+      <option name="closed" value="true" />
+      <created>1768741040510</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1768741040510</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Deleted">
+      <option name="closed" value="true" />
+      <created>1768741317556</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1768741317556</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated commit">
+      <option name="closed" value="true" />
+      <created>1768741807761</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768741807761</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1768747306425</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768747306425</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1768747885087</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1768747885087</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Changed SSR to false" />
+    <MESSAGE value="Added Stripe Integration and Subscriptions" />
+    <MESSAGE value="For Vercel Deployment" />
+    <MESSAGE value="Updated the dependencies for stripe payment server" />
+    <MESSAGE value="Stripe payment integration and vercel deployment" />
+    <MESSAGE value="Vercel deployment" />
+    <MESSAGE value="Updated env variables" />
+    <MESSAGE value="Deleted" />
+    <MESSAGE value="Updated commit" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="ai.zencoder.plugin.mcp">
+    <option name="internalToolsState" value="{&quot;fetch_webpage&quot;:true,&quot;web_search&quot;:true,&quot;ExecuteShellCommand&quot;:true,&quot;file_search&quot;:true,&quot;str_replace_editor&quot;:true,&quot;list_resources&quot;:true,&quot;FileDiagnosticsTool&quot;:true,&quot;fulltext_search&quot;:true,&quot;read_resource&quot;:true,&quot;RequirementsTool&quot;:true}" />
+    <option name="libraryTools">
+      <map>
+        <entry key="agentql">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="agentrpc">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="aiven">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="apache iotdb">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="apify">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="apimatic mcp">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="astra db">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="aws kb retrieval">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="axiom">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="bankless onchain">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="bicscan">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="box">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="brave search">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="browserbase">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="chroma">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="circleci">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="clickhouse">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="cloudflare">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="codacy">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="codelogic">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="comet opik">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="context7">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="convex">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="e2b">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="elasticsearch">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="everart">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="everything">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="exa">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="fetch">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="fibery">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="filesystem">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="financial datasets">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="firecrawl">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="fireproof">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="forevervm">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="git">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="gitee">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="github">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="gitlab">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="google drive">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="google maps">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="grafana">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="graphlit">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="greptimedb">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="heroku">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="hologres">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="hyperbrowser">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="ibm wxflows">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="inkeep">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="integration app">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="jetbrains">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="kagi search">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="langfuse prompt management">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="logfire">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="mailgun">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="make">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="meilisearch">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="memory">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="metoro">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="milvus">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="momento">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="motherduck">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="needle">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="neo4j">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="neon">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="notion">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="oceanbase">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="octagon">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="oxylabs">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="paddle">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="paypal">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="perplexity">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="playwright">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="postgresql">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="puppeteer">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="qdrant">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="ramp">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="raygun">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="redis">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="riza">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="screenshotone">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="search1api">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="semgrep">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="sentry">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="sequential thinking">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="singlestore">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="slack">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="sqlite">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="starrocks">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="stripe">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="taskmaster-ai">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="tavily">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="thirdweb">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="tinybird">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="unifai">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="unstructured">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="vectorize">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="zapier">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+        <entry key="zenml">
+          <value>
+            <McpServerInfo />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="zencoderBackendTools">
+      <map>
+        <entry key="ExecuteShellCommand">
+          <value>
+            <McpServerInfo>
+              <option name="status">
+                <McpServerStatus />
+              </option>
+            </McpServerInfo>
+          </value>
+        </entry>
+        <entry key="FileDiagnosticsTool">
+          <value>
+            <McpServerInfo>
+              <option name="status">
+                <McpServerStatus />
+              </option>
+            </McpServerInfo>
+          </value>
+        </entry>
+        <entry key="RequirementsTool">
+          <value>
+            <McpServerInfo>
+              <option name="status">
+                <McpServerStatus />
+              </option>
+            </McpServerInfo>
+          </value>
+        </entry>
+        <entry key="fetch_webpage">
+          <value>
+            <McpServerInfo>
+              <option name="status">
+                <McpServerStatus />
+              </option>
+            </McpServerInfo>
+          </value>
+        </entry>
+        <entry key="str_replace_editor">
+          <value>
+            <McpServerInfo>
+              <option name="status">
+                <McpServerStatus />
+              </option>
+            </McpServerInfo>
+          </value>
+        </entry>
+        <entry key="web_search">
+          <value>
+            <McpServerInfo>
+              <option name="status">
+                <McpServerStatus />
+              </option>
+            </McpServerInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ai.zencoder.plugin.rag.RepoInfoWarningState">
+    <option name="currentWarningState" value="true" />
+    <option name="lastCheckTime" value="1766923544748" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
